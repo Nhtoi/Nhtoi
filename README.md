@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kevin</h1>
 <h3 align="center">Software Developer from The United States</h3>
-
 - 🌱 I’m currently learning **Go, React, OpenCV, Typescript**
-
 - ⚡ Fun fact **I am from Cuba**
 
 <h3 align="left">Connect with me:</h3>
